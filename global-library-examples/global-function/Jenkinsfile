@@ -1,4 +1,5 @@
 #!groovy
+# this jenkins file uses a global shared library function
 
 // Loads the standardBuild function/step from workflowLibs.git/vars/standardBuild.groovy
 // and invokes it.
